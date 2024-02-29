@@ -1,2 +1,2 @@
 # WorldsHardestGame2
-Download Available
+This is for my main sites.
